@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">WeatherAndroidApp</string>
+    <string name="key">fb58d22564cf41b18e7232733212212</string>
+    <string name="city">Города</string>
+    <string name="weather">Погода</string>
+    <string name="back">Вернуться</string>
+    <array name="cities">
+        <item>челябинск</item>
+        <item>москва</item>
+        <item>екатеринбург</item>
+        <item>новосибирск</item>
+        <item>казань</item>
+    </array>
+</resources>
